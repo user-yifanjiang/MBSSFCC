@@ -33,6 +33,4 @@ The public [KUL dataset](https://zenodo.org/record/3997352#.YUGaZdP7R6q) [DTU da
    ```powershell
    python multi_processing.py
    ```
-## Paper
 
-![model](./pic/model.png)
